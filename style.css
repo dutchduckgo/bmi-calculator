@@ -77,3 +77,17 @@ html {
     justify-self: center;
 }
 
+#table {
+    height: 100px;
+    width: 550px;
+
+    background-color: #F5E4C3;
+    margin: 0 auto;
+    border: 5px solid #88B169;
+}
+
+table, th, td {
+    margin: auto;
+   text-align: center;
+   border: 1px solid black;  
+}
